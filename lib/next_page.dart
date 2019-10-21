@@ -15,7 +15,7 @@ class NextPage extends StatelessWidget {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text('BLoC Sample by User Info'),
+        title: Text('ChangeNotifier Provider Sample'),
       ),
       body:Center(
         child: Column(
